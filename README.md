@@ -19,8 +19,8 @@ Se eligio REST porque:
 
 ## Flujo de trabajo aplicado
 - Desarrollo inicial en `main` con estructura base del repositorio.
-- Implementación de cambios en ramas `feature`.
-- Integración de cambios mediante merge.
+- Implementacion de cambios en ramas `feature`.
+- Integracion de cambios mediante merge.
 - Simulacion y resolucion de conflicto de codigo.
 
 ## Integracion continua
