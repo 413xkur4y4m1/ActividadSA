@@ -1,1 +1,5 @@
-// Punto de entrada inicial del servicio.
+function iniciarServicio() {
+  console.log("Servicio empresarial activo");
+}
+
+iniciarServicio();
