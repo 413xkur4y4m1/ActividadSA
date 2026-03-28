@@ -1,5 +1,5 @@
 function iniciarServicio() {
-  console.log("Servicio empresarial activo");
+  console.log("Servicio activo desde rama feature-conflicto");
 }
 
 iniciarServicio();
