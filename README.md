@@ -1,19 +1,19 @@
 # Proyecto de Arquitectura Empresarial
 
-Práctica de control de versiones para demostrar el uso de ramas, commits, merges, resolución de conflictos, tags y documentación técnica.
+Practica de control de versiones para demostrar el uso de ramas, commits, merges, resolucion de conflictos, tags y documentacion tecnica.
 
 ## Tipo de servicio web
 Este proyecto utiliza arquitectura REST.
 
-## Justificación
-Se eligió REST porque:
-- Es más ligero que SOAP.
+## Justificacion
+Se eligio REST porque:
+- Es mas ligero que SOAP.
 - Usa HTTP de forma directa.
-- Facilita la integración con aplicaciones web y móviles.
+- Facilita la integracion con aplicaciones web y moviles.
 - Tiene buen rendimiento en escenarios comunes de negocio.
 
 ## Control de versiones
-- `main`: línea principal estable (trunk).
+- `main`: linea principal estable (trunk).
 - `feature/*`: ramas de desarrollo para nuevas funcionalidades.
 - `tags/releases`: versiones cerradas del proyecto (por ejemplo `v1.0`).
 
@@ -21,7 +21,7 @@ Se eligió REST porque:
 - Desarrollo inicial en `main` con estructura base del repositorio.
 - Implementación de cambios en ramas `feature`.
 - Integración de cambios mediante merge.
-- Simulación y resolución de conflicto de código.
+- Simulacion y resolucion de conflicto de codigo.
 
-## Integración continua
-GitHub Actions permite automatizar tareas como pruebas, validación de calidad de código y despliegue continuo del servicio, mejorando la trazabilidad y mantenimiento del proyecto.
+## Integracion continua
+GitHub Actions permite automatizar tareas como pruebas, validacion de calidad de codigo y despliegue continuo del servicio, mejorando la trazabilidad y mantenimiento del proyecto.
